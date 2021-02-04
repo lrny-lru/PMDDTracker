@@ -9,7 +9,7 @@ PMDDTracker is a symptom tracking app for anyone who needs to keep track of symp
 
 The PMDDTracker app allows users to add a symptom to their  chart, edit symptoms previously added, and delete symptoms.
 
-The app also allows used to view their Tuck chart by the severity of their symptoms, or by the date the symptom was added, in order to relay it to a healthcare professional.
+The app also allows used to view their chart by the severity of their symptoms, or by the date the symptom was added, in order to relay it to a healthcare professional.
 
 Users can add as many details in their description as needed and can view the description of a specific symptom by clicking on the expand icon on their PMDDTracker chart.
 
