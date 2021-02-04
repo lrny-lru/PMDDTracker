@@ -95,7 +95,7 @@ class EditSymptomForm extends Component {
             required
           ></textarea>
           <button className="form-button" type="submit">
-            Tuck it
+            Done
           </button>
           <button
             className="form-button"

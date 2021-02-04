@@ -12,19 +12,13 @@ Users can add as many details in their description as needed and can view the de
 PMDDTracker was built with React, using pure CSS and communicates with a live NodeJS/PostgresQL server.
 
 ###### Landing Page
-![Landing Page]( )
+![Landing Page](img/landing.png )
 
-###### Home with symptoms added
-![unsorted home](  ) 
-
-###### Home with symptoms sorted by severity
-![sorted home]( )
 
 ###### Add symptom form
-![add symptom]( )
+![add symptom](img/addsymp.png)
 
 ###### Edit symptom form
-![edit symptom]( )
+![edit symptom](img/edit.png )
 
-###### Expanded symptom page for more details
-![expanded symptom]( )
+
