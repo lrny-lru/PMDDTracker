@@ -23,6 +23,6 @@ PMDDTracker was built with React, using pure CSS and communicates with a live No
 ![add symptom](https://i.imgur.com/CHEEy5R.png)
 
 ###### Edit symptom form
-![edit symptom](https://i.imgur.com/HXze14Y.png)
+![edit symptom](https://i.imgur.com/UleEazd.png)
 
 
