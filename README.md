@@ -1,6 +1,10 @@
 # PMDDTracker
 ##
 
+Live demo: https://pmddtracker.vercel.app/
+
+API:https://github.com/lrny-lru/PMDDTracker-server
+
 PMDDTracker is a symptom tracking app for anyone who needs to keep track of symptoms for themselves. PMDDTracker is simplistic, so that the user has less to worry about and can easily enter a symptom without adding any stress to their life. 
 
 The PMDDTracker app allows users to add a symptom to their  chart, edit symptoms previously added, and delete symptoms.
